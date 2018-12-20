@@ -14,7 +14,7 @@ var DupCount int
 
 func manageInput(c net.Conn, k chan string, l net.Listener) {
 
-	filename := "/Users/aacuna/go/src/newrelic-interviews/alison/numbers.log"
+	filename := "./numbers.log"
 
 	for {
 		select {

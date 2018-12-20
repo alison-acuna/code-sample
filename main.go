@@ -1,9 +1,9 @@
 package main
 
 import (
-	"newrelic-interviews/Alison/createFile"
-	"newrelic-interviews/Alison/report"
-	"newrelic-interviews/Alison/runServer"
+	"Alison/createFile"
+	"Alison/report"
+	"Alison/runServer"
 )
 
 func main() {
